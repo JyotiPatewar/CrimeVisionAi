@@ -1,0 +1,6 @@
+{
+  "name": "CrimeVision AI",
+  "description": "Intelligent Multimodal Forensic Analysis Platform for advanced criminal investigation and evidence processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
